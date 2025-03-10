@@ -5,8 +5,12 @@
       <div class="context-box">
         <img src="https://placehold.co/400x150" alt="Logo" class="logo">
         <div class="text">
-          <h1 class="title">Main Title</h1>
-          <p class="description">This is a description of the main content area. It provides context and information about the content displayed below.</p>
+          <!-- <h1 class="title"></h1> -->
+           <!-- Mailto -->
+          <span>For info on acquiring any of my books, contact me at:</span>
+          <a href="mailto:klenagh@polarcomm.com" class="title">
+              <span class="text">klenagh@polarcomm.com</span>
+          </a>
         </div>
       </div>
     </div>
@@ -58,14 +62,24 @@
       .text {
         max-width: 600px;
         text-align: center;
+        span {
+          display: block;
+          font-size: 18px;
+          color: #333;
+        }
         .title {
           font-size: 24px;
-          font-weight: bold;
-          margin-bottom: 10px;
+          color: #333;
+          text-decoration: none;
+          margin-top: 10px;
+          &:hover {
+            text-decoration: underline;
+          }
         }
-        .description {
-          font-size: 16px;
-          color: #666;
+        .text {
+          font-size: 18px;
+          color: #333;
+          margin-top: 10px;
         }
       }
     }
