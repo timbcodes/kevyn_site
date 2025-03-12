@@ -2,13 +2,13 @@
   <div class="main-view">
     <div class="header">
       <img
-        src="https://placehold.co/600x400"
+        src="@/assets/images/Domino2013-3.jpg"
         alt="Main Banner Image"
         class="banner"
       />
       <div class="context-box">
         <img
-          src="https://placehold.co/400x150"
+          src="@/assets/images/DClogo1.jpg"
           alt="Logo"
           class="logo"
         />
@@ -24,13 +24,65 @@
     <div class="body">
       <div class="content">
         <div class="grid">
-          <div
-            class="grid-item"
-            v-for="i in 6"
-            :key="i"
-          >
+          <div class="grid-item">
             <img
-              src="https://placehold.co/200x150"
+              src="@/assets/images/Domino Chance Cover 1.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 3.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 4.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 5.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 6.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 7.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 8.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 9.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 10.jpg"
               alt="Placeholder Image"
               class="placeholder-image"
             />
@@ -40,8 +92,8 @@
 
       <div class="main-comic">
         <img
-          src="https://placehold.co/600x400"
-          alt="Main Comic Image"
+          src="@/assets/images/Domino Chance Cover 11.jpg"
+          alt="Placeholder Image"
           class="comic-image"
         />
       </div>
