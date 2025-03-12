@@ -92,7 +92,7 @@
 
       <div class="main-comic">
         <img
-          src="@/assets/images/Domino Chance Cover 11.jpg"
+          src="@/assets/images/A_frontcover Domino11.jpg"
           alt="Placeholder Image"
           class="comic-image"
         />
