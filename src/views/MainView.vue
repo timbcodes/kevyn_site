@@ -89,7 +89,7 @@
           </div>
           <div class="grid-item">
             <img
-              src="@/assets/images/Domino Chance Cover 11.jpg"
+              src="@/assets/images/A_frontcover Domino11.jpg"
               alt="Placeholder Image"
               class="placeholder-image"
             />
@@ -99,7 +99,7 @@
 
       <div class="main-comic">
         <img
-          src="@/assets/images/A_frontcover Domino11.jpg"
+          src="@/assets/images/newcomic.jpg"
           alt="Placeholder Image"
           class="comic-image"
         />
