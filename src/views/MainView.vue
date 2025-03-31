@@ -87,12 +87,19 @@
               class="placeholder-image"
             />
           </div>
+          <div class="grid-item">
+            <img
+              src="@/assets/images/Domino Chance Cover 11.jpg"
+              alt="Placeholder Image"
+              class="placeholder-image"
+            />
+          </div>
         </div>
       </div>
 
       <div class="main-comic">
         <img
-          src="@/assets/images/Domino Chance Cover 11.jpg"
+          src="@/assets/images/newcomic.jpg"
           alt="Placeholder Image"
           class="comic-image"
         />
