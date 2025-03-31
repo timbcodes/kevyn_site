@@ -99,7 +99,7 @@
 
       <div class="main-comic">
         <img
-          src="@/assets/images/newcomic.jpg"
+          src="@/assets/images/A_frontcover Domino11.jpg"
           alt="Placeholder Image"
           class="comic-image"
         />
