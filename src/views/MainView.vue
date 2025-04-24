@@ -8,6 +8,11 @@
       />
       <div class="context-box">
         <img
+          src="@/assets/images/qr1.png"
+          alt="Logo"
+          class="logo"
+        />
+        <img
           src="@/assets/images/DClogo1.jpg"
           alt="Logo"
           class="logo"
@@ -18,6 +23,11 @@
             <span class="text">klenagh@polarcomm.com</span>
           </a>
         </div>
+        <img
+          src="@/assets/images/qr2.png"
+          alt="Logo"
+          class="logo"
+        />
       </div>
     </div>
 
